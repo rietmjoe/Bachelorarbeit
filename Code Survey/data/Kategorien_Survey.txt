@@ -1,0 +1,77 @@
+    "Response ID": "ID",
+    "What is your gender?": "Gender",
+    "How old are you?": "Age",
+    "What is your field of study?": "FieldOfStudy",
+    "What is your field of study? [Other]": "FieldOfStudy_Other",
+    "What language is primarily spoken in your courses?": "CourseLanguage",
+    "Do you work with collaboration tools during your studies? (Microsoft Teams, Zoom, Trello, GitHub,...)": "UseCollabTools",
+
+
+
+    "What collaboration tools do you use and how often do you use them?  [Microsoft Teams]": "Teams",
+    "What collaboration tools do you use and how often do you use them?  [Zoom]": "Zoom",
+    "What collaboration tools do you use and how often do you use them?  [Google Workspace (Docs, Sheets, Slides)]": "GoogleWorkspace",
+    "What collaboration tools do you use and how often do you use them?  [Slack]": "Slack",
+    "What collaboration tools do you use and how often do you use them?  [Trello]": "Trello",
+    "What collaboration tools do you use and how often do you use them?  [Notion]": "Notion",
+    "What collaboration tools do you use and how often do you use them?  [Miro]": "Miro",
+    "What collaboration tools do you use and how often do you use them?  [Mural]": "Mural",
+    "What collaboration tools do you use and how often do you use them?  [GitHub]": "GitHub",
+    "What collaboration tools do you use and how often do you use them?  [Monday.com]": "Monday",
+    "What collaboration tools do you use and how often do you use them?  [Asana]": "Asana",
+    "What collaboration tools do you use and how often do you use them?  [Jira]": "Jira",
+    "What collaboration tools do you use and how often do you use them?  [Other (write below)]": "OtherCollaborationTools",
+
+    "Do you use any other tools that are not mentioned above?": "UseOtherTools",
+
+
+
+    "Is the following criteria important in the selection of a collaboration tool for you?  [User-friendliness]": "UserFriendliness",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Functionality and feature set]": "Functionality",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Integration with other tools]": "Integration",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Scalability (Ability to increase or decrease in performance)]": "Scalability",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Cost (Expense involved in purchase and maintenance)]": "Cost",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Privacy and security]": "PrivacySecurity",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Reliability and availability]": "Reliability",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Mobility and access (Ease of access from various locations/devices)]": "Mobility",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Customizability (personalize according to needs)]": "Customizability",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Feedback and evaluation features]": "Feedback",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Accessibility (Usable for as many people as possible)]": "Accessibility",
+    "Is the following criteria important in the selection of a collaboration tool for you?  [Reputation of the provider]": "Reputation",
+    
+
+    
+    "Please mark what applies to you.  [The use of collaboration tools has improved collaboration with my fellow students.]": "ImpactOnCollaboration",
+    "Please mark what applies to you.  [Collaboration tools have made group projects more organized and manageable.]": "ImpactOnOrganization",
+    "Please mark what applies to you.  [Collaboration tools have improved the ability to coordinate tasks and deadlines within my team.]": "ImpactOnCoordination",
+    "Please mark what applies to you.  [Collaboration tools facilitate communication with lecturers and the exchange of feedback.]": "ImpactOnCommunication",
+    "Please mark what applies to you.  [My active participation and engagement in class have increased through the use of these tools.]": "ImpactOnParticipation",
+    "Please mark what applies to you.  [The use of collaboration tools has increased my motivation to learn.]": "ImpactOnMotivation",
+    
+    
+    
+    "Please mark what applies to your institution.  [I am satisfied with the variety of digital collaboration tools offered by my institution.]": "SatisfactionWithToolsVariety",
+    "Please mark what applies to your institution.  [My institution integrates digital collaboration tools into the curriculum effectively.]": "EffectiveToolIntegration",
+    "Please mark what applies to your institution.  [   The training sessions on digital collaboration tools provided by my institution are adequate.]": "AdequacyOfTraining",
+    "Please mark what applies to your institution.  [My institution's helpdesk support effectively resolves issues related to digital collaboration tools.]": "EffectivenessOfSupport",
+    "Please mark what applies to your institution.  [I feel involved in the decision-making process regarding the selection of digital collaboration tools at my institution.]": "InvolvementInDecisionMaking",
+    
+    
+    
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Technical issues (e.g., connectivity problems, software glitches)]": "ChallengeTechnicalIssues",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Lack of familiarity with the tools]": "ChallengeFamiliarity",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Difficulty maintaining effective communication with my team members]": "ChallengeCommunication",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Lack of engagement or participation from team members]": "ChallengeEngagement",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Difficulty in managing and organizing shared documents and resources]": "ChallengeOrganization",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Privacy and security concerns]": "ChallengePrivacySecurity",
+    "What are the most significant challenges you face while collaborating using digital tools and how often does it happen? [Inadequate support and training on the use of digital tools]": "ChallengeSupportTraining",
+    
+    "Are there any other difficulties you encounter when using collaboration tools that have not been mentioned?": "OtherDifficulties",
+    
+    
+    
+    "How strongly do you feel the use of digital collaboration tools has impacted your academic performance positively?": "ImpactOnAcademicPerformance",
+    
+    
+    
+    "Please feel free to share any additional questions, suggestions, or comments you might have regarding digital collaboration tools or your experience using them.": "AdditionalComments"

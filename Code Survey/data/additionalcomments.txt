@@ -1,0 +1,27 @@
+AdditionalComments
+keine
+"Current collaboration tools are bloated while still lacking essential features. As a software developer, I never want to leave my IDE to do administrative work for collaborative projects, so my collab tool of choice would be Visual Studio Code, if everything I need was available as an extension."
+"I am a analog type! I work with paper an pencil. Just need google docs to write thesises alone and in groups, because its nice to be able to acess the documents on all my digital providers. AndO use good notes during the lectures to write my notes with my apple pen;) me as a analog type does need this"
+"i see s huge benefit in digital collaboration tools since uni courses are not always onsite, but also remote and also the students live al over the country which makes it harder to work together on projects in person. the dc.-tools help in those situations and make collaboration easy. "
+"Ich studiere am Departement S und ich gehe davon aus, dass wir ein Departement sind, das weniger mit digitalen Tools arbeitet als andere Studiengänge (die digitale Affinität werte ich eher tief in unserer Berufsbranche (ich schreibe gerade selber eine Masterthesis zum Thema und die Auswertungen bestätigen die Hypothese). Deshalb wurden in Gruppenarbeiten häufig die gängigen Tools wie z.B. Dropbox, Mail und Whatsapp verwendet statt auf Collab-Tools auszuweichen. "
+"For me, digital tools have a negative effect. I think it's better for my personal studies that I meet Humans in real life and not through tools. I can't focus and I can't study, most of the time I am disturbed by soething else in my room."
+-
+The new Teams and Outlook are very instable and thus not so attractive anymore. 
+"Using these tools gives you more flexibility and ability to participate in more classes and/or events organized by your institution. Especially if, like me, you are a commuter and therefore also manage to save some money by not having to make the trip."
+Collaborative tools separates me physically from my study colleagues. That’s negative for my study performance 
+"In my oppinion, the biggest impact of collaboration tools on my studies is, that students can share information and even sollutions to exercises really well. (The students can sometimes become more or less a hive mind)"
+Yeah make it normal for teachers to stream their courses.
+"I would wish to have a better balance between classical learning approach and modern approach (for elderly students like me I should focus on the content of the study and not struggling and investing time to find out how electronic devices and tools are working! It's incredible time consuming to align everything while others are very familiar with devices and tools. But, I have learned a lot since September 2023 and I am happy to improve constantly! Thanks for the survey! "
+teams for example us rarely used but i use notion for my self a lot and it really increased my learning progress. but not really bcs of collaboration 
+-
+"Collaboration tools are helpfull for meetings (sponatneous, no time for travelling as it is for a physical meeting) but on the other hand it is more time consuming for discussions because its complicate for cummunication e.g. share ideas. Furthermore they are helpfull if lessons are recorded for learning but there is less participation (members and discussions/questions) in class if it is online. Organisation is more complicate as more different tools are used (missing some information, time consuming for searching documents as they are shared only in specific tools e.g. meeting in tool A, important infos in tool A or B, documents in tool B, C or D and class training in tool B or D) and sometimes missleading if a document is uploaded in two different tools but only updated in one of them."
+"Not only students among themselves should be using these tools. Lecturers should be also involved and motivated!  
+The tools is not being using in vast majority of lectures."
+i almost use only Teams and outlook
+"One important thing which I think we all have to learn is not especially ""what"" we can do with those tools, but ""how"" we can use them as a Team. There are so many trainings how everyone should collaborate but there are only a few trainings for the new way of working. How can we strengthen the team spirit via digital tools?"
+"Wenn nur ein gutes Tool benutzt werden würde, von jedem, dann wäre es noch weniger mühsam. "
+-
+Helpful for collaborations and working on the same project but online meetings are exhausting. I often face technical issues especially working with microsoft on apple devices! Zoom was definitely the better option than teams is. Good luck with your thesis!
+"I feel that these tools have helped in the sense that they offer recordings for example so I can relisten to certain parts, or follow lecture from home, which is great and makes me more motivated and also if it was not online I would probably just not go. I helps to juggle other activities such as part-time work next to the studies "
+"I find that it is often assumend that all students are already familiar with all these digital collaboration tools, when in fact for some students it's the very first time they are using this tool. Hence it would be user-friendly to get a training or at least a heads-up that knowledge about this tool is needed."
+"Guidelines or standards for folderstructures and filenameing, provided by the instution to be integrated by the students could be helpful to have an easier organisation of all the necessary data"
